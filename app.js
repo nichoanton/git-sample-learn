@@ -5,7 +5,7 @@ const app = () => {
     <>
     <div>HELLO</div>
     <div>HELLO WORLD!</div>
-    <div>HELLO NICHO!</div>
+    <div>I AM DUMMY BRANCH!!!!!</div>
     </>
   )
 }
